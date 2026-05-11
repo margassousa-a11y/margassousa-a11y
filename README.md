@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href=
+  <a href="www.linkedin.com/in/margarida-sousa-link"
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/your-username">
