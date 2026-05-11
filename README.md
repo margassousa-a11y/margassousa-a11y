@@ -2,7 +2,6 @@
 
 <p align="center">
   <em>Junior Developer · Lisbon, Portugal </em><br>
-  <em>· Sharpening fundamentals · Exploring full-stack</em>
 </p>
 
 <p align="center">
