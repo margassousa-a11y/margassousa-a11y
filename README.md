@@ -65,7 +65,6 @@ A project focused on exploring real-world application design and building someth
 
 
 - **LinkedIn:** [linkedin.com/in/margarida-sousa-link](https://www.linkedin.com/in/margarida-sousa-link)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
 
 ---
 
