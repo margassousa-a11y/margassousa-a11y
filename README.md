@@ -64,9 +64,8 @@ A project focused on exploring real-world application design and building someth
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=margassousa-a11y&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 ---
 
 ## Current Goals
