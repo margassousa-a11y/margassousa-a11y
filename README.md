@@ -58,7 +58,7 @@ A project focused on exploring real-world application design and building someth
 
 ## Current Goals
 
-- [ ] Contribute to an open-source project
+- [ ] Check for news very soon
 
 
 ---
