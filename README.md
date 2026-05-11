@@ -35,18 +35,18 @@ I'm a junior developer based in Lisbon, working primarily with **C** and **Pytho
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🔄 [Push_swap](https://github.com/your-username/push_swap)
+### [Push_swap](https://github.com/your-username/push_swap)
 A sorting algorithm project written in **C** that sorts a stack of integers using a limited set of operations on two stacks, with the goal of minimizing the total number of moves.
 
 - Implemented a custom sorting algorithm optimized for different input sizes
 - Practiced memory management, linked-list manipulation, and complexity analysis
-- Reinforced fundamentals in algorithmic thinking and Big-O reasoning
+- Reinforced fundamentals in algorithmic thinking
 
 `C` · `Algorithms` · `Data Structures` · `Memory Management`
 
-### ✈️ [Fly-in](https://github.com/your-username/fly-in)
+### [Fly-in](https://github.com/your-username/fly-in)
 A project focused on exploring real-world application design and building something practical from the ground up.
 
 - Designed and implemented core features end-to-end
@@ -56,7 +56,7 @@ A project focused on exploring real-world application design and building someth
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -69,7 +69,7 @@ A project focused on exploring real-world application design and building someth
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - [ ] Contribute to an open-source project
 
@@ -77,8 +77,8 @@ A project focused on exploring real-world application design and building someth
 ---
 
 
-- 💼 **LinkedIn:** [linkedin.com/in/margarida-sousa](https://www.linkedin.com/in/margarida-sousa/)
-- 💻 **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **LinkedIn:** [linkedin.com/in/margarida-sousa](https://www.linkedin.com/in/margarida-sousa/)
+- **GitHub:** [github.com/your-username](https://github.com/your-username)
 
 ---
 
