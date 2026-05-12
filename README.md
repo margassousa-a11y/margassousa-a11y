@@ -1,4 +1,5 @@
-# Margarida Sousa
+<h2 align=center>
+  <a Margarida Sousa >
 
 <p align=center>
   <em>Student at 42 Lisboa | Junior Developer · Lisbon, Portugal </em><br>
