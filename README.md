@@ -37,7 +37,7 @@ Software Development student at 42 Lisboa, building toward a role at the interse
 
 ## Projects
 
-### [Push_swap]([https://github.com/your-username/push_swap](https://github.com/margassousa-a11y/Push-Swap#))
+### [Push_swap](https://github.com/margassousa-a11y/Push-Swap#))
 A sorting algorithm project written in **C** that sorts a stack of integers using a limited set of operations on two stacks, with the goal of minimizing the total number of moves.
 
 - Implemented a custom sorting algorithm optimized for different input sizes
