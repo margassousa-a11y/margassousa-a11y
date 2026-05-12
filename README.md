@@ -1,5 +1,7 @@
-<h2 align=center>
-  <a Margarida Sousa >
+<h align=center>
+  <p Margarida Sousa >
+  </p>
+</h>
 
 <p align=center>
   <em>Student at 42 Lisboa | Junior Developer · Lisbon, Portugal </em><br>
