@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Margarida Sousa</h1>
+<h1 align=center;">Margarida Sousa</h1>
 
 <p align=center>
   <em>Student at 42 Lisboa | Junior Developer · Lisbon, Portugal </em><br>
