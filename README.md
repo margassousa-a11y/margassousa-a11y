@@ -14,7 +14,7 @@
 
 ## Summary
 
-Software Development student at 42 Lisboa, building toward a role at the intersection of system design, process automation, database modeling and product development. I approach software from the problem side first and treat code as the natural outcome of that reasoning. **. 
+Software Development student at 42 Lisboa, building toward a role at the intersection of system design, process automation, database modeling and product development. I approach software from the problem side first and treat code as the natural outcome of that reasoning. 
 
 
 **Languages**
