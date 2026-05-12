@@ -12,7 +12,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## Summary
 
 I'm a junior developer based in Lisbon, working primarily with **C** and **Python** expanding into **full-stack development**. 
 
@@ -47,11 +47,7 @@ A sorting algorithm project written in **C** that sorts a stack of integers usin
 `C` · `Algorithms` · `Data Structures` · `Memory Management`
 
 ### [Fly-in](https://github.com/your-username/fly-in)
-A project focused on exploring real-world application design and building something practical from the ground up.
-
-- Designed and implemented core features end-to-end
-- Practiced project structuring, version control workflows, and iterative development
-
+Designed and implemented an object-oriented drone fleet routing system that schedules multiple drones from a start zone to an end zone across a weighted graph of connected zones, minimizing total simulation turns.
 `Python` · `Project Architecture`
 
 ---
