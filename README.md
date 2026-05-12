@@ -1,6 +1,6 @@
 # Margarida Sousa
 
-<p>
+<p align=center>
   <em>Student at 42 Lisboa | Junior Developer · Lisbon, Portugal </em><br>
 </p>
 
