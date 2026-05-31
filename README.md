@@ -54,7 +54,7 @@ Designed and implemented an object-oriented drone fleet routing system that sche
 
 ## Current Goals
 
-- [ ] Check for news very soon
+- [ ] Join a Startup
 
 
 ---
